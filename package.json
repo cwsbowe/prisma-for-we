@@ -2,7 +2,7 @@
   "name": "primsa-we",
   "license": "MIT",
   "scripts": {
-    "start": "node ./app.ts"
+    "start": "node ./app.js"
   },
   "dependencies": {
     "@prisma/client": "2.26.0",
