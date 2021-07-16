@@ -1,0 +1,11 @@
+{
+  "name": "primsa-we",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./app.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "2.26.0",
+    "prisma": "2.26.0"
+  }
+}
